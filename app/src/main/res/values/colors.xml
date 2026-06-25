@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E3A8A</color>
+    <color name="primaryDark">#14285F</color>
+    <color name="accent">#3B82F6</color>
+    <color name="bgMain">#F3F6FB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="textDark">#1F2937</color>
+    <color name="textLight">#6B7280</color>
+    <color name="greenStrong">#0F9D58</color>
+    <color name="lightBlueCard">#EAF2FF</color>
+    <color name="strokeLight">#D9E2F1</color>
+    <color name="selectedItemBg">#DBEAFE</color>
+    <color name="quantityBg">#F8FAFC</color>
+</resources>
